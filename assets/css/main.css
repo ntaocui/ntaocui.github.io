@@ -1476,7 +1476,7 @@
 			-webkit-transition: opacity 0.325s ease-in-out, -webkit-transform 0.325s ease-in-out;
 			-ms-transition: opacity 0.325s ease-in-out, -ms-transform 0.325s ease-in-out;
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
-			padding: 1rem 1rem 1rem 1.5rem ;
+			padding: 1.5rem 1rem 1rem 1.5rem ;
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
