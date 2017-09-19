@@ -1,10 +1,10 @@
 // edits desc text
-alert("hi");
 
-    jQuery(function(){
-      jQuery('#test').click();
-    });    
-
+$("#page-desc").typeIt({
+    strings: "[Eng Sub: Cool places that I've worked at]",
+    speed: 50,
+    autoStart: true
+});
 
 function changeDesc(ele){
 	var tab = ele.id;
