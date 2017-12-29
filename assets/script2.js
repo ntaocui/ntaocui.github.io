@@ -27,7 +27,7 @@ function pageSetup(){
 	$('#title').typeIt({
 	     speed: 60,
 	     autoStart: false
-	}).tiType("HI, NICE TO MEET YOU.").tiPause(750).tiDelete().tiType("MY NAME IS ALEX.").tiPause(750).tiDelete().tiType("SCROLL DOWN TO FIND OUT MORE ABOUT ME");
+	}).tiType("HI, NICE TO MEET YOU.").tiPause(750).tiDelete().tiType("MY NAME IS NAITAO.").tiPause(750).tiDelete().tiType("SCROLL DOWN TO FIND OUT MORE ABOUT ME");
 
 	$('#skills_caption').typeIt({
 	     strings: 'SKILLS',
